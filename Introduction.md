@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wenboer
+- 👋 Hi, I’m @wenboer,a graduate in IOE,CAS
 - 👀 I’m interested in algorithms and machine learning ,but I'm green.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
